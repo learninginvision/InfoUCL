@@ -112,4 +112,4 @@ This code is built upon [divyam3897/UCL](https://github.com/divyam3897/UCL/), an
 
 [4] [lightly](https://github.com/lightly-ai/lightly)
 
-We thank the authors for releasing their code. 
+We thank the authors for releasing their code.
