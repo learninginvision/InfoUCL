@@ -92,7 +92,6 @@ CUDA_VISIBLE_DEVICES={GPU_IDX} python test.py --log_dir {EXP_PATH}
 
 ## 📈 Results
 
-
 <div align="center">
 <img align="middle" width="500" src="figures/results.jpg">
 
